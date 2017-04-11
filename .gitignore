@@ -1,0 +1,7 @@
+data
+submissions
+kaggle/train_data.npy
+__pychache__
+.idea
+
+*.pyc
